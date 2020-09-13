@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "rootDir": "src",
+      "outDir": "dist",
+      "sourceMap": true,
+      "declaration": true,
+      "target": "es2015",
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "strictPropertyInitialization": true,
+    },
+    "include": [
+      "src"
+    ],
+    "exclude": [
+      "node_modules",
+      "**/*.spec.ts"
+    ]
+  }
