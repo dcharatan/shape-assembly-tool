@@ -21,7 +21,7 @@
     "prettier": "^2.0.5"
   },
   "dependencies": {
-    "@dcharatan/shape-assembly-parser": "^2.0.5",
+    "@dcharatan/shape-assembly-parser": "^3.0.0",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2"
   }
