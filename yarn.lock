@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@dcharatan/shape-assembly-parser@^6.3.0":
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/@dcharatan/shape-assembly-parser/-/shape-assembly-parser-6.3.0.tgz#46548acbe6670b80d2a0a30af9d9b172a23ab5cb"
-  integrity sha512-Kh10+dRDBURdR3QJk25Es570Ikw0ZhtezNfiVSRWnAgGJZCiZW8O0ofZWFR8yDbISo3/P9AT+gI/DT6RciNbCQ==
+"@dcharatan/shape-assembly-parser@^6.6.0":
+  version "6.6.0"
+  resolved "https://registry.yarnpkg.com/@dcharatan/shape-assembly-parser/-/shape-assembly-parser-6.6.0.tgz#0a2f97abe1e35033607fdf5f8c1fa09dc9ca111b"
+  integrity sha512-6JCjI8lqIU7MqZYV5bhik21cdoEBxT0esLm9XCioa5oRbRykyFMg3mB82aZnsBMFcLrzz2yu8PdlJy8u00K7tw==
 
 "@eslint/eslintrc@^0.1.3":
   version "0.1.3"
